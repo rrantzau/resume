@@ -7,7 +7,12 @@
 Passionate about ...
 
 * working with great people to build game-changing software platforms and solutions
-* building systems in the area of DLT/blockchain, databases, data streams, analytics, distributed systems
+* building systems in the areas of
+    - **Blockchain / DLT**
+    - **Databases**
+    - **Data streams**
+    - **Analytics / OLAP**
+    - **Distributed systems**
 * programming, inventing, researching
 
 ## Experience
