@@ -19,8 +19,9 @@ Passionate about ...
 
 #### _Tech Lead &mdash; Blockchain platform_ | Cisco, San Jose | 2018-9/2019
 
-* [Cisco Blockchain](https://developer.cisco.com/blockchain) &mdash; Platform backend hacking
+* [Cisco Blockchain](https://developer.cisco.com/blockchain) &mdash; Platform backend programming
 * Designed, built, and delivered industry-first DLT platform features, e.g., services to enable role-based information disclosure (field-level RBAC security)
+* Worked on the implementation of the state store and ledger
 * Patents
 
 #### _Tech Lead &mdash; Cloud telemetry and log analytics_ | Cisco, San Jose | 2014-2018
