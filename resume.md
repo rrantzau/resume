@@ -118,6 +118,25 @@ Passionate about ...
 [22nd International Conference on Data Engineering](https://dblp1.uni-trier.de/db/conf/icde/icde2006.html) (ICDE), Atlanta, Georgia, USA, 2006
 * Patent Achievement Award, IBM, 2009
 
+## Skills
+
+According to LindedIn endorsements ...
+
+* Big Data
+* Databases
+* Distributed Systems
+* Software Development
+* Software Engineering
+
+## Languages
+
+* C/C++
+* Golang
+* Java
+* Python
+* SQL
+* Experience with R
+
 ## Patents
 
 1. [Auditing compliance with a Hippocratic database](https://patents.google.com/patent/US7810142B2)
@@ -143,25 +162,6 @@ Passionate about ...
 21. [Ad-hoc n-tier global overlay using distributed ledger systems](https://www.tdcommons.org/dpubs_series/2705)
 22. [Public key based addressing using distributed ledger systems](https://www.tdcommons.org/dpubs_series/2706)
 23. [Supply chain device provenance](https://www.tdcommons.org/dpubs_series/2676)
-
-## Skills
-
-According to LindedIn endorsements ...
-
-* Big Data
-* Databases
-* Distributed Systems
-* Software Development
-* Software Engineering
-
-## Languages
-
-* C/C++
-* Golang
-* Java
-* Python
-* SQL
-* Experience with R
 
 ## Publications
 
