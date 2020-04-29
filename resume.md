@@ -11,7 +11,7 @@ Passionate about ...
     - **Blockchain / DLT**
     - **Databases**
     - **Data streams**
-    - **Analytics / OLAP**
+    - **ML / Analytics / OLAP**
     - **Distributed systems**
 * programming, inventing, researching
 
