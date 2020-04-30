@@ -154,15 +154,16 @@ According to LindedIn endorsements ...
 12. [Using persistent memory to enable consistent data for batch processing and streaming processing](https://patents.google.com/patent/US20190197146A1)
 13. [Chained collection of information](https://patents.google.com/patent/US20190306056A1)
 14. [Obfuscation and anonymization techniques for network data sets for machine learning](https://www.tdcommons.org/dpubs_series/1814)
-15. [Self-organizing meshes using distributed ledger systems](https://www.tdcommons.org/dpubs_series/2588)
-16. [Hop-by-hop authentication routing using distributed ledger systems](https://www.tdcommons.org/dpubs_series/2675)
-17. [Dynamic Genesis and cold death of distributed ledger systems](https://www.tdcommons.org/dpubs_series/2677)
-18. [Intent-based ad-hoc network meshes using distributed ledger systems](https://www.tdcommons.org/dpubs_series/2678)
-19. [Group addressing using distributed ledger systems](https://www.tdcommons.org/dpubs_series/2703)
-20. [Onion routing for obfuscating traffic using distributed ledger systems](https://www.tdcommons.org/dpubs_series/2704)
-21. [Ad-hoc n-tier global overlay using distributed ledger systems](https://www.tdcommons.org/dpubs_series/2705)
-22. [Public key based addressing using distributed ledger systems](https://www.tdcommons.org/dpubs_series/2706)
-23. [Supply chain device provenance](https://www.tdcommons.org/dpubs_series/2676)
+15. Enforcing network endpoint policies in a cloud-based environment using a covert namespace
+16. [Self-organizing meshes using distributed ledger systems](https://www.tdcommons.org/dpubs_series/2588)
+17. [Hop-by-hop authentication routing using distributed ledger systems](https://www.tdcommons.org/dpubs_series/2675)
+18. [Dynamic Genesis and cold death of distributed ledger systems](https://www.tdcommons.org/dpubs_series/2677)
+19. [Intent-based ad-hoc network meshes using distributed ledger systems](https://www.tdcommons.org/dpubs_series/2678)
+20. [Group addressing using distributed ledger systems](https://www.tdcommons.org/dpubs_series/2703)
+21. [Onion routing for obfuscating traffic using distributed ledger systems](https://www.tdcommons.org/dpubs_series/2704)
+22. [Ad-hoc n-tier global overlay using distributed ledger systems](https://www.tdcommons.org/dpubs_series/2705)
+23. [Public key based addressing using distributed ledger systems](https://www.tdcommons.org/dpubs_series/2706)
+24. [Supply chain device provenance](https://www.tdcommons.org/dpubs_series/2676)
 
 ## Publications
 
