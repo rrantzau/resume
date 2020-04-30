@@ -138,7 +138,7 @@ According to LindedIn endorsements ...
 * SQL
 * Experience with R
 
-## Patents
+## Patents & Disclosures
 
 1. [Auditing compliance with a Hippocratic database](https://patents.google.com/patent/US7810142B2)
 2. [Security and privacy enforcement for discovery services in a network of electronic product code information repositories](https://patents.google.com/patent/US7866543B2)
