@@ -1,5 +1,6 @@
 #! /usr/bin/env bash
 
+for f in *.md
 do
   echo $f
   python -m markdown -x markdown.extensions.extra -x markdown.extensions.codehilite -x markdown.extensions.footnotes -x markdown.extensions.smarty -x markdown.extensions.tables -x markdown.extensions.toc $f > $f.tmp
