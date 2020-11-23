@@ -6,16 +6,23 @@
 
 Passionate about ...
 
-* working with great people to build game-changing software platforms and solutions
-* building systems in the areas of
-    - **Blockchain / DLT**
-    - **Databases**
-    - **Data streams**
-    - **ML / Analytics / OLAP**
-    - **Distributed systems**
-* programming, inventing, researching
+* Building systems in the areas of
+  - **Databases / SQL**
+  - **Data streams / Real-time analytics**
+  - **Cloud security**
+  - **Blockchain / DLT**
+  - **ML / Analytics / OLAP**
+  - **Distributed systems**
+* Working with great people to build game-changing software platforms and solutions by
+  - Programming
+  - Inventing
+  - Researching
 
 ## Experience
+
+#### _Senior Software Engineer &mdash; Data platform_ | Lacework, San Jose | 6/2020-11/2020
+
+* Built features for cloud security data pipeline
 
 #### _Tech Lead &mdash; Blockchain platform_ | Cisco, San Jose | 2018-9/2019
 
