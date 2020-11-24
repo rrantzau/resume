@@ -1,2 +1,4 @@
-# resume
-My resume
+# Resume
+
+* [PDF](resume.pdf)
+* [Markdown](resume.md)
