@@ -22,7 +22,7 @@ Passionate about ...
 
 #### _Senior Software Engineer &mdash; Data platform_ | Lacework, San Jose | 6/2020-11/2020
 
-* Built features for cloud security data pipeline
+* Enhanced query processing feature for the cloud security data pipeline
 
 #### _Tech Lead &mdash; Blockchain platform_ | Cisco, San Jose | 2018-9/2019
 
