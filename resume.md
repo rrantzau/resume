@@ -4,19 +4,20 @@
 
 ## Summary
 
-Passionate about ...
+Passionate about building systems in these areas:
 
-* Building systems in the areas of
-  - **Databases / SQL**
-  - **Data streams / Real-time analytics**
-  - **Cloud security**
-  - **Blockchain / DLT**
-  - **ML / Analytics / OLAP**
-  - **Distributed systems**
-* Working with great people to build game-changing software platforms and solutions by
-  - Programming
-  - Inventing
-  - Researching
+- **Databases / SQL**
+- **Data streams / Real-time analytics**
+- **Cloud security**
+- **Blockchain / DLT**
+- **ML / Analytics / OLAP**
+- **Distributed systems**
+
+... and working with great people to build game-changing software platforms and solutions by
+
+- Programming
+- Inventing
+- Research
 
 ## Experience
 
