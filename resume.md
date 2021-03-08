@@ -23,7 +23,7 @@ Passionate about building systems in these areas:
 
 #### _Senior Software Engineer &mdash; Backend_ | Passio, Menlo Park | 12/2020-2/2021
 
-* Enhanced and redesigned ingestion pipeline of multimedia data for AI analytics
+* Enhanced and redesigned ingestion pipeline of multimedia data for Edge AI solutions
 * Enhanced backend APIs
 
 #### _Senior Software Engineer &mdash; Data platform_ | Lacework, San Jose | 6/2020-11/2020
