@@ -145,7 +145,7 @@ According to LindedIn endorsements ...
 ## Languages
 
 * C/C++
-* Golang
+* Golang (preferred)
 * Java
 * Python
 * SQL
